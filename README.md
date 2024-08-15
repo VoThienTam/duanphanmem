@@ -16,7 +16,10 @@ Hạn nộp báo cáo: 25/11/2023
 
 
 ####################################################################################################
-
+Chương trình mới 
+Sử dụng FrameWork tạo 13 CSDL bao gồm các chế độ luân phiên khác nhau có thể kiểm soát và chỉnh trong mọi
+khung thời gian
+Sử dụng Ngôn ngữ HTML, JavaCrip, NotJS, Python để viết lên các phần mềm nói trên sau 
 
 
 
