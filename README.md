@@ -20,9 +20,11 @@ Chương trình mới
 Sử dụng FrameWork tạo 13 CSDL bao gồm các chế độ luân phiên khác nhau có thể kiểm soát và chỉnh trong mọi
 khung thời gian
 Sử dụng Ngôn ngữ HTML, JavaCrip, NotJS, Python để viết lên các phần mềm nói trên sau 
+Http@// thevois thevis hiwa save the nice 
+pakage WEbHoa int tring ( void ;;)
+FrameWork 
 
-
-
+06/09/2024 thứ 6 16h Cafe Hải Phùng 
 
 
 
